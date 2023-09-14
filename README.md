@@ -4,11 +4,6 @@
 
 ![Arthur GUedes GitHub stats](https://github-readme-stats.vercel.app/api?username=Mister-Guedes&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-Guedes&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-Guedes&hide_progress=true)
-
-
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
