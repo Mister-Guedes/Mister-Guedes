@@ -1,4 +1,4 @@
-
+## Oi Pessoal! Me chamo Arthur Guedes
 📚Estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU pelo Embarque Digital<br>💻Desenvolvedor FullStack em busca de Experiência<br>😃Vamos nos conectar! Aqui está meu LinkedIn:
 <br>
 
@@ -9,3 +9,4 @@
 # 📊 Minhas Estastísticas:
 ![](https://github-readme-stats.vercel.app/api?username=Mister-Guedes&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-Guedes&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
